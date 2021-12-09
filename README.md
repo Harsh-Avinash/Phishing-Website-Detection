@@ -16,3 +16,4 @@ We make the use of 6Machine Learning Algorithms namely XGboost, Multilayer Perce
 
 ## Colaborators
 [Harsh Avinash](https://github.com/Harsh-Avinash)
+[Seshank K](https://github.com/Seshank-k)
